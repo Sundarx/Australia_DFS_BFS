@@ -1,3 +1,3 @@
 # Australia_DFS_BFS
 
-Program performs a depth-first search of an Australia digraph, starting at Sydney. The program also a performs breadth-first search on the same digraph.
+Program uses linked-list implemented queue and a stack to perform a depth-first search and a breadth-first search of an Australia digraph, starting at Sydney.
